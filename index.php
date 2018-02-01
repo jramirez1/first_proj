@@ -4,6 +4,10 @@
         <title> </title>
     </head>
     <body>
+        <div> 
+        <a href="/portfolio">Personal Portfolio</a>
+        
+        </div>
 
     </body>
 </html>
