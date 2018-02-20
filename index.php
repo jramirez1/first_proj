@@ -16,6 +16,9 @@
         
         <div>LABS</div>
         <a href="/Labs/portfolio"> portfolio </a>
+        <br/>
+        <a href="/Labs/777"> lab 2 </a>
+
         </div>
 
     </body>
