@@ -1,0 +1,170 @@
+header 
+{
+    text-align: center;
+    font-size: 4em;
+    
+}
+
+body 
+{
+  
+    background-image: url(/Assaignments/Homework2/cropped-Light-Wood-Background.png);
+}
+
+
+
+form 
+{
+    color: white;
+    font-size: 2em;
+}
+
+
+#invoice-POS
+{
+  margin:auto;
+  
+  width: 310px;
+  background: #EEE;
+  height: 600px;
+}
+  
+
+
+
+
+
+p
+{
+  font-size: 2em;
+  line-height: 1em;
+  text-align: center;
+  
+}
+ 
+
+
+#top
+{min-height: 100px;}
+
+
+
+#bot
+{ 
+  padding-top: 250px;
+  width: 100%;
+  min-height: 10px;
+  
+}
+
+
+
+
+#top 
+{
+ 
+  float: left;
+	height: 60px;
+	width: 100%;
+	background-size: 60px 60px;
+	
+}
+
+
+.info p
+{
+  display: block;
+  float:left;
+  margin-left: 0;
+  width: 100%;
+}
+
+
+
+.title
+{
+  float: right;
+}
+
+
+.title p
+{text-align: right;}
+
+
+
+table
+{
+  padding-top: 100%;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+
+td
+{
+  padding: 5px 0 5px 15px;
+  border: 1px solid #EEE;
+  
+}
+
+
+.tabletitle
+{
+  padding: 5px;
+  font-size: .7em;
+  background: #EEE;
+}
+
+
+
+.service
+{border-bottom: 1px solid #EEE;
+
+}
+
+
+
+.item
+{
+  width: 24mm;
+  
+}
+
+
+
+
+
+
+.itemtext{font-size: 1em;}
+
+
+  
+  
+#bottom
+{
+  font-size: 10px;
+  
+}
+
+.fname 
+{
+ 
+  font-size: 2em;
+  
+}
+
+
+
+
+.tableitem
+{
+  background-color: white;
+}
+
+
+
+
+#error
+{
+  font-size: 8em;
+}
