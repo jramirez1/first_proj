@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "teamProject"]
+	url = https://github.com/JetBot65/teamproject.git
+	fetch = +refs/heads/*:refs/remotes/teamProject/*
