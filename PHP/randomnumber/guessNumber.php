@@ -41,7 +41,7 @@
             
             Number 1: <input type="text" name="number1"/>
             <br />
-            Number 2: <input type="text" name="number2" />
+            Number: <input type="text" name="number2" />
             <br /><br />
             <input type="submit" value="Guess Numbers" name="guessForm"/>
             <br /><br />

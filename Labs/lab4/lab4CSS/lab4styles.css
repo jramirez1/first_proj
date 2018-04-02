@@ -1,0 +1,25 @@
+body
+{
+
+    background-color: black;
+    color: white;
+
+}
+
+input[type=submit]
+{
+     background-color: #708090;
+     color:white;
+
+}
+
+.name
+{
+    font-size: 4em;
+    text-align: center;
+}
+
+.table th[scope=col] 
+{
+    font-size: 1.5em;
+}

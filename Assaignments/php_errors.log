@@ -1,0 +1,130 @@
+[26-Feb-2018 05:51:48 UTC] PHP Fatal error:  Undefined constant 'n' in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 36
+[26-Feb-2018 05:51:48 UTC] PHP Stack trace:
+[26-Feb-2018 05:51:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[26-Feb-2018 05:52:39 UTC] PHP Fatal error:  Undefined constant 'n' in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 36
+[26-Feb-2018 05:52:39 UTC] PHP Stack trace:
+[26-Feb-2018 05:52:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[26-Feb-2018 07:13:04 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 51
+[26-Feb-2018 07:14:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 52
+[26-Feb-2018 07:14:34 UTC] PHP Stack trace:
+[26-Feb-2018 07:14:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[26-Feb-2018 07:17:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 53
+[26-Feb-2018 07:17:35 UTC] PHP Stack trace:
+[26-Feb-2018 07:17:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[26-Feb-2018 07:32:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 89
+[26-Feb-2018 07:32:29 UTC] PHP Stack trace:
+[26-Feb-2018 07:32:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[26-Feb-2018 07:32:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 92
+[26-Feb-2018 07:32:29 UTC] PHP Stack trace:
+[26-Feb-2018 07:32:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[26-Feb-2018 07:32:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 95
+[26-Feb-2018 07:32:29 UTC] PHP Stack trace:
+[26-Feb-2018 07:32:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[26-Feb-2018 07:32:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 98
+[26-Feb-2018 07:32:29 UTC] PHP Stack trace:
+[26-Feb-2018 07:32:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[26-Feb-2018 07:39:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 89
+[26-Feb-2018 07:39:46 UTC] PHP Stack trace:
+[26-Feb-2018 07:39:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[26-Feb-2018 07:39:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 92
+[26-Feb-2018 07:39:46 UTC] PHP Stack trace:
+[26-Feb-2018 07:39:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[26-Feb-2018 07:39:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 95
+[26-Feb-2018 07:39:46 UTC] PHP Stack trace:
+[26-Feb-2018 07:39:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[26-Feb-2018 07:39:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 98
+[26-Feb-2018 07:39:46 UTC] PHP Stack trace:
+[26-Feb-2018 07:39:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[26-Feb-2018 07:50:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 85
+[26-Feb-2018 07:50:07 UTC] PHP Stack trace:
+[26-Feb-2018 07:50:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[26-Feb-2018 07:50:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 85
+[26-Feb-2018 07:50:22 UTC] PHP Stack trace:
+[26-Feb-2018 07:50:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[26-Feb-2018 08:05:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 221
+[26-Feb-2018 08:06:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 221
+[26-Feb-2018 08:06:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 221
+[26-Feb-2018 09:14:31 UTC] PHP Fatal error:  Unsupported operand types in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 125
+[26-Feb-2018 09:14:31 UTC] PHP Stack trace:
+[26-Feb-2018 09:14:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[26-Feb-2018 09:34:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 85
+[26-Feb-2018 09:34:51 UTC] PHP Stack trace:
+[26-Feb-2018 09:34:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[26-Feb-2018 09:34:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 89
+[26-Feb-2018 09:34:51 UTC] PHP Stack trace:
+[26-Feb-2018 09:34:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[26-Feb-2018 09:34:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 92
+[26-Feb-2018 09:34:51 UTC] PHP Stack trace:
+[26-Feb-2018 09:34:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[26-Feb-2018 09:34:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 95
+[26-Feb-2018 09:34:51 UTC] PHP Stack trace:
+[26-Feb-2018 09:34:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[26-Feb-2018 09:34:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 98
+[26-Feb-2018 09:34:51 UTC] PHP Stack trace:
+[26-Feb-2018 09:34:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[26-Feb-2018 09:35:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 85
+[26-Feb-2018 09:35:18 UTC] PHP Stack trace:
+[26-Feb-2018 09:35:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[28-Feb-2018 04:44:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 85
+[28-Feb-2018 04:44:44 UTC] PHP Stack trace:
+[28-Feb-2018 04:44:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[28-Feb-2018 04:52:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 85
+[28-Feb-2018 04:52:09 UTC] PHP Stack trace:
+[28-Feb-2018 04:52:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[28-Feb-2018 05:00:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 85
+[28-Feb-2018 05:00:57 UTC] PHP Stack trace:
+[28-Feb-2018 05:00:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[28-Feb-2018 05:00:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 89
+[28-Feb-2018 05:00:57 UTC] PHP Stack trace:
+[28-Feb-2018 05:00:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[28-Feb-2018 05:00:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 92
+[28-Feb-2018 05:00:57 UTC] PHP Stack trace:
+[28-Feb-2018 05:00:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[28-Feb-2018 05:00:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 95
+[28-Feb-2018 05:00:57 UTC] PHP Stack trace:
+[28-Feb-2018 05:00:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[28-Feb-2018 05:00:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 98
+[28-Feb-2018 05:00:57 UTC] PHP Stack trace:
+[28-Feb-2018 05:00:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[28-Feb-2018 06:26:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 85
+[28-Feb-2018 06:26:20 UTC] PHP Stack trace:
+[28-Feb-2018 06:26:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[28-Feb-2018 06:26:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 89
+[28-Feb-2018 06:26:20 UTC] PHP Stack trace:
+[28-Feb-2018 06:26:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[28-Feb-2018 06:26:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 92
+[28-Feb-2018 06:26:20 UTC] PHP Stack trace:
+[28-Feb-2018 06:26:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[28-Feb-2018 06:26:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 95
+[28-Feb-2018 06:26:20 UTC] PHP Stack trace:
+[28-Feb-2018 06:26:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[28-Feb-2018 06:26:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 98
+[28-Feb-2018 06:26:20 UTC] PHP Stack trace:
+[28-Feb-2018 06:26:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[28-Feb-2018 06:43:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 76
+[28-Feb-2018 06:43:43 UTC] PHP Stack trace:
+[28-Feb-2018 06:43:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[28-Feb-2018 06:44:50 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 134
+[28-Feb-2018 06:44:50 UTC] PHP Stack trace:
+[28-Feb-2018 06:44:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[28-Feb-2018 06:45:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 76
+[28-Feb-2018 06:45:23 UTC] PHP Stack trace:
+[28-Feb-2018 06:45:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[28-Feb-2018 06:46:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 76
+[28-Feb-2018 06:46:31 UTC] PHP Stack trace:
+[28-Feb-2018 06:46:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[28-Feb-2018 06:46:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 76
+[28-Feb-2018 06:46:41 UTC] PHP Stack trace:
+[28-Feb-2018 06:46:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[28-Feb-2018 06:46:50 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 144
+[28-Feb-2018 06:46:50 UTC] PHP Stack trace:
+[28-Feb-2018 06:46:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[28-Feb-2018 06:47:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 76
+[28-Feb-2018 06:47:23 UTC] PHP Stack trace:
+[28-Feb-2018 06:47:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[28-Feb-2018 06:48:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 76
+[28-Feb-2018 06:48:09 UTC] PHP Stack trace:
+[28-Feb-2018 06:48:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0
+[28-Feb-2018 06:50:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Assaignments/Homework2/index2.php on line 76
+[28-Feb-2018 06:50:34 UTC] PHP Stack trace:
+[28-Feb-2018 06:50:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assaignments/Homework2/index2.php:0

@@ -1,0 +1,108 @@
+[12-Mar-2018 23:12:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM device 
+        
+        WHERE deviceId LIKE CONCAT('%', '', '%')
+        O' at line 12 in /home/ubuntu/workspace/Labs/lab4/lab4Index.php:58
+Stack trace:
+#0 /home/ubuntu/workspace/Labs/lab4/lab4Index.php(58): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 58
+[12-Mar-2018 23:12:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM device 
+        
+        WHERE deviceId LIKE CONCAT('%', '', '%')
+        O' at line 12 in /home/ubuntu/workspace/Labs/lab4/lab4Index.php:58
+Stack trace:
+#0 /home/ubuntu/workspace/Labs/lab4/lab4Index.php(58): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 58
+[12-Mar-2018 23:15:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM device 
+        
+        WHERE deviceId LIKE CONCAT('%', '', '%')
+        O' at line 12 in /home/ubuntu/workspace/Labs/lab4/lab4Index.php:58
+Stack trace:
+#0 /home/ubuntu/workspace/Labs/lab4/lab4Index.php(58): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 58
+[12-Mar-2018 23:25:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM device 
+        
+        WHERE deviceId LIKE CONCAT('%', '', '%')
+        O' at line 12 in /home/ubuntu/workspace/Labs/lab4/lab4Index.php:58
+Stack trace:
+#0 /home/ubuntu/workspace/Labs/lab4/lab4Index.php(58): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 58
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:52:19 UTC] PHP Notice:  Undefined index: charge_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
+[12-Mar-2018 23:55:13 UTC] PHP Notice:  Undefined index: device_id in /home/ubuntu/workspace/Labs/lab4/lab4Index.php on line 157
